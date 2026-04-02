@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Shadar Kai abilities"/>
+                    <attribute id="Passives" type="LSString" value="ShadarKai_Intelligence, ShadarKai_Wisdom"/>
+                    <attribute id="UUID" type="guid" value="39e1103d-d365-41e3-a625-4d8185f722a0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

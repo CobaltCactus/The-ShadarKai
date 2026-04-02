@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77c5168b-6571-483e-b3f4-627fd25acd79" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Dye_Raven" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fd2a3d30-1150-4e0b-b294-b95ec90875d8" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3a01be75-74c5-4cd1-8d06-5d8e352ffa06" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="608a2379-9517-46ad-8736-f5844ae23707" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_Dye_Shadowfell" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b3ee1fa8-bbbd-4d80-9ba6-737595b1e5ad" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2c53ebfa-d024-41bc-a5a5-f273aa226400" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

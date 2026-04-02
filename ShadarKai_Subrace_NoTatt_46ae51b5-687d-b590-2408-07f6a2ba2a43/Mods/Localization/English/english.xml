@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h32a424c2g1516g9d15ga412gcb9d5e47eed5" version="6">Shadar-Kai</content>
+  <content contentuid="h0deb6a5eg2d63gc83fg35c8gb8a5cfa78508" version="5">Netherese</content>
+  <content contentuid="h6f8ac204g3180g1bfeg75e5g3e62ec9dda8a" version="4">Netherese</content>
+  <content contentuid="h973a2f86gc157ga933ga420g253665182eef" version="1">Shadar-Kai</content>
+  <content contentuid="he842237ag1e99g50f5g30fdgee343c4531a0" version="1">Shadar Smoke 1</content>
+  <content contentuid="h5b03542cg27b9g0472g9689g8f74237920c4" version="1">Shadar Smoke 2</content>
+  <content contentuid="hed2a56efga8ecg9c98g602dg7c32c7bf1586" version="1">Shadar Smoke 3</content>
+  <content contentuid="h647bad54g5c37g3591gfde9g59b6824472e4" version="1">Shadar Smoke 4</content>
+  <content contentuid="hb1ada5b9g3691gdd33g2e5dge5c2430de0d4" version="1">Shadar Smoke 5</content>
+  <content contentuid="hd219ac1bg6c53gd7b9gd5c9g1a336a6feb87" version="1">Shadar Smoke 6</content>
+  <content contentuid="h9efe5d39ge0a7g4fbdg8ea8g95aaa8971317" version="2">Shadar-Kai</content>
+  <content contentuid="h8209e8c5g9153g515bg4cb2g022f1eaa6f0c" version="1">Shadar-Kai</content>
+  <content contentuid="h79086043g72c4gb46cgbf44g65f9ff8daa2c" version="1">Shadar-Kai</content>
+  <content contentuid="hc72a270bgce56g7759g42fcgcdb730e3adfe" version="1">Shadar-Kai</content>
+  <content contentuid="h4b30e7a1g0a61g74f7gcb14g44004534cb05" version="1">Netherese</content>
+  <content contentuid="hc8069881g5c16g0f69g70bdga288513959e4" version="1">Netherese</content>
+  <content contentuid="h195ac8a5gf81ag2331gd50fga560fbc8bfa6" version="1">Netherese</content>
+  <content contentuid="h160b7c0eg954ag401agd5dag4726a7e87fe1" version="1">Netherese</content>
+  <content contentuid="h1c5b6198g5574gfa6fg9f1cgd59e0d4ad281" version="1">Shadar-Kai Camp Clothes</content>
+  <content contentuid="h3daa5796g77ecg1476g5a3bg8f1e61c8c3a3" version="1">This provacative Shadar-Kai outfit just doesn't seem to fit short, dragonborn, or half-orcs correctly.</content>
+  <content contentuid="he1b29cb8gbae0g3540ge634g12cdb2a7e9f1" version="1">Underwear</content>
+  <content contentuid="h94852584g37d3g4d77gd9dcg3e431ff93a36" version="1">Raven Dye</content>
+  <content contentuid="h4ec55e44g4cdagc1c1g5847g2c50a17b488d" version="1">Combine this dye with an equipment item to alter the colours of fabric, leather and even metal.</content>
+  <content contentuid="ha835e694g82dfga435g2bb8g40f795cbd538" version="1">These hues give the appearance of one of Luskan's dignitaries.</content>
+  <content contentuid="h72f2e3d3gbf18gba79ge9b8gb9256dd838ae" version="1">Shadowfell Dye</content>
+  <content contentuid="hb4999938g3c0cga986g1345g0bb08d512256" version="1">Combine this dye with an equipment item to alter the colours of fabric, leather and even metal.</content>
+  <content contentuid="haf3c8f1dgcad2gd191g744eg86098224b5fe" version="1">This dye smells vaguely of mint and lime. </content>
+  <content contentuid="h148b8d35g9ef2g8500g27e9g06a2ee6f6d32" version="1">Base Racial Speed</content>
+  <content contentuid="h2c9ee0dcg6c57gbc2egd391gdbd2741a519e" version="1">You can move [1] per turn.</content>
+  <content contentuid="hea7c5d7egdacbg0697g350cga2cd1f865344" version="1">Shadar-Kai Perception</content>
+  <content contentuid="h390e5afagce20ga3bbg1f20g2028066b1da8" version="1">You have proficiency in Perception.</content>
+  <content contentuid="h10f87e90gf045g4103gfbf3g88bed65f9d33" version="1">Winterkin</content>
+  <content contentuid="h1323c8afg001dgeb7cg653cg116d8c13b76a" version="1">Due to your connection to the Raven Queen, you gain a +[1] racial bonus to death saving throws.</content>
+  <content contentuid="hc268460egc85bg17c9g3d65g98e08aee66f9" version="1">Shadar-Kai Resistance</content>
+  <content contentuid="h3293ce72g03cfg8139g4d63g39222b743b3f" version="1">You have resistance to Necrotic damage.</content>
+  <content contentuid="hde1c66c9g1e84ga523ge7beg7e808620159b" version="1">Born in the Shadows</content>
+  <content contentuid="hada7b1d1g82a6gb0cfg4ab5gc524dc08ad42" version="1">Raised in the Shadowfell, shadow-based curses don't affect you and you have a natural resistance to Necrotic damage.</content>
+  <content contentuid="h6af3c053ge3d2g2010g72ecg8d1a899462e5" version="1">Additional Raven Point</content>
+  <content contentuid="h1cfbb3b0gad01gc4dbg29cfg9e55cd8570e1" version="1">You have a number of blessings equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
+  <content contentuid="hbfad0a09g7fc7g25c3g24d4g89ee59df3f49" version="1">Additional Raven Point</content>
+  <content contentuid="hc5ac96a7g0a5fg83d7gd3dag33c8d14b1c70" version="1">You have a number of blessings equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
+  <content contentuid="h1f3a4ebcgb862g3c8fg5fffgfa9014ab6b1a" version="1">Additional Raven Point</content>
+  <content contentuid="hd5f0c905g0aedg6a26g957egb14841708780" version="1">Twice per day you can enter a trance to gain proficiency with a weapon or tool of your choice.</content>
+  <content contentuid="h0b084876gffcfg0a9eg92e8ga9bc215e2d50" version="1">Raven Points</content>
+  <content contentuid="h29f988a2g5800g27d9g7df5ga3fe345c7568" version="1">You have a number of blessings equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
+  <content contentuid="hcd8b3839g903dg1a7cg6d72g22812c6e42f2" version="1">Blessing of the Raven Queen</content>
+  <content contentuid="h0cb42b4bg0ae0gf443gb919gbcf7b4ee3695" version="1">You can teleport to a location you can see up to your proficiency level times per day.</content>
+  <content contentuid="h462d2765g9694g1008ga31bgc4e45089ea07" version="1">Improved Raven Blessing</content>
+  <content contentuid="h7bb46a18gf287g8fd8gc410gc94137a52294" version="1">You can teleport to a location you can see up to your proficiency level times per day. Whenever you do, you recieve resistance to all damage for one turn.</content>
+  <content contentuid="h172a95ddg87f2gc3b6gc5a6gbb1c8b65ad01" version="1">Shadar Knowledge</content>
+  <content contentuid="h2df7348aga8dbg226bgcebfgf6b6d800127d" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in a type of weapon.</content>
+  <content contentuid="h5e3c270age5cag8ebeg82f3g6f513798cd90" version="1">Shadar Knowledge: Battleaxe</content>
+  <content contentuid="h6d0fae21gbedfg4c9cg767dge5fcee920987" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Battleaxes.</content>
+  <content contentuid="h613f5650g8646gee59g74b1gfd768be0c3da" version="1">Shadar Knowledge: Club</content>
+  <content contentuid="h4987f677gdf74g5d57g900dga75d68542b1e" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Clubs.</content>
+  <content contentuid="h741425cege8c0g4f75g4aadg1d3733c3e3cd" version="1">Shadar Knowledge: Dagger</content>
+  <content contentuid="hd1178a61g131cg6ca4gf3fcgfaaf2a9a487e" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Daggers.</content>
+  <content contentuid="hea71b547g28d1gf868gce83g3325103e49d3" version="1">Shadar Knowledge: Flail</content>
+  <content contentuid="hc95e0de9gcdc9gf036g95fcg30131a4ab1c0" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Flails.</content>
+  <content contentuid="haf067babg6202gaa5ag9ac4gf2b0217d8387" version="1">Shadar Knowledge: Glaive</content>
+  <content contentuid="hcf750c40gcfdeg2c1egb80ag8f1676fc55b5" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Glaives.</content>
+  <content contentuid="hc28ffa4dg52f0g11ecg6d9bgabeaf660fd26" version="1">Shadar Knowledge: Greataxe</content>
+  <content contentuid="h57f0d672g092bg362agcf6fg31c2aa612d5b" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greataxes.</content>
+  <content contentuid="hafdd656egffeag89cfgf5f8g3cc92b5462f8" version="1">Shadar Knowledge: Greatclub</content>
+  <content contentuid="ha26bf671ga18egf79cge99dg47b0302cc379" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greatclubs.</content>
+  <content contentuid="h5677bd73g072dg0439g3337g4a97f74bdba4" version="1">Shadar Knowledge: Greatsword</content>
+  <content contentuid="h649f6bddg1921g15f5gf052g4eb7d0ac0f7d" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greatswords.</content>
+  <content contentuid="h7e6c42edg38fcge7cfg3b01gb01b1c52d773" version="1">Shadar Knowledge: Halberd</content>
+  <content contentuid="h47e51d81g4fd9g3f59gf34cg62fd55a4bf6f" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Halberds.</content>
+  <content contentuid="hab8a116eg8065g82edg14acgcc7ba54034e5" version="1">Shadar Knowledge: Handaxe</content>
+  <content contentuid="h1f53f542gbf2fgef04gea95ga860926cdf4f" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Handaxes.</content>
+  <content contentuid="hc3ded452g8100ga888g0043g7e6d966575b3" version="1">Shadar Knowledge: Hand Crossbows</content>
+  <content contentuid="h4a0a63d3gd52bg500dg1728g5517e698a479" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Hand Crossbows.</content>
+  <content contentuid="h84c6d0e6g1c29gf9b8g8106g2d3d5cd7264d" version="1">Shadar Knowledge: Heavy Crossbow</content>
+  <content contentuid="h9c8347a1g04cdg1939g5991gf230ba4937db" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Heavy Crossbows.</content>
+  <content contentuid="h67c8c5a6g020cg0049g4e4eg626c36a88c7e" version="1">Shadar Knowledge: Javelin</content>
+  <content contentuid="hfe055514ge20fg338bgac55gf46f3dac4866" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Javelins.</content>
+  <content contentuid="h3207cf44ge891g660dg3537ge1ecaa87668d" version="1">Shadar Knowledge: Light Crossbows</content>
+  <content contentuid="h941bb6e8gb465g00d9gcf7eg3ac0667d2ec9" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Light Crossbows.</content>
+  <content contentuid="h69cfb2aag1774gbabag47d6g09d28a535ff3" version="1">Shadar Knowledge: Light Hammer</content>
+  <content contentuid="h2dfc1192g818agcb7bg68f7gec3ce96c4334" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Light Hammers.</content>
+  <content contentuid="hfd4b7574g490bg3e14ga349g1ba2eacff971" version="1">Shadar Knowledge: Longbow</content>
+  <content contentuid="h26484b3cg3b58g7ed9g3977g0d21c423be3a" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Longbows.</content>
+  <content contentuid="hf5c65c4ag4aceg9d45gc5a4gaeafe3da4ff2" version="1">Shadar Knowledge: Longsword</content>
+  <content contentuid="h7622ef12g8207gfb18g47f7gd3f7a4923a3c" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Longswords.</content>
+  <content contentuid="h23c6fe01gfd7cgecadg81a4gfbe1a9864ac0" version="1">Shadar Knowledge: Mace</content>
+  <content contentuid="h0c9a1999g6d5agb1dega7ddg0510fa574151" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Maces.</content>
+  <content contentuid="he93e90adgf3f0g2d87gece1gd54d4421ca2b" version="1">Shadar Knowledge: Maul</content>
+  <content contentuid="h515187bdgdee2gf489ge8afg4f25ed6e663a" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Mauls.</content>
+  <content contentuid="ha0a7d8a3gd846g8a84g50c3g3122c14c6e21" version="1">Shadar Knowledge: Morningstar</content>
+  <content contentuid="hf0b4ce3bg8b88g1377g3e16g2f9752e17dcb" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Morningstars.</content>
+  <content contentuid="h1ac22576g651bg5e35ga6f6g07d364028f5e" version="1">Shadar Knowledge: Musical Instrument</content>
+  <content contentuid="h48c168cegcdb1g1eacg870fgaa8ec0021458" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Musical Instruments.</content>
+  <content contentuid="hab42da9cg1d00g29a1g28edg0730097e1f0f" version="1">Shadar Knowledge: Pike</content>
+  <content contentuid="h2b1c7279gce34g5dd7g3fabgac91736aa68e" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Pikes.</content>
+  <content contentuid="h19152240gaf6fgb2fegcc98gc98c239e4ad6" version="1">Shadar Knowledge: Quarterstaff</content>
+  <content contentuid="h844a51aeg3760gd906ga59cg0b160e569e73" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Quarterstaves.</content>
+  <content contentuid="h39cc01a6g507egc825gcfc8g8e2715bcacc1" version="1">Shadar Knowledge: Rapier</content>
+  <content contentuid="h23213252g7241ga90bg5867g521669b32f3a" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Rapiers.</content>
+  <content contentuid="h619d1bf9g0b16g3a52g7d1fg003a765964b8" version="1">Shadar Knowledge: Scimitar</content>
+  <content contentuid="h669a1f78g6340g5356g7079g8a9eea6648fc" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Scimitars.</content>
+  <content contentuid="h93fb8fc3g6d51g8db9gfe3eg152098ef6daa" version="1">Shadar Knowledge: Shield</content>
+  <content contentuid="hca8fea7agd8c0gfd49g7583g6dd2c51fb332" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shields.</content>
+  <content contentuid="h7da38973g5facg6628ge2fegbb7c8328f6b9" version="1">Shadar Knowledge: Shortbow</content>
+  <content contentuid="h0e083d93gee65g4b75g4ad5g2e87a9bdf69d" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shortbows.</content>
+  <content contentuid="h234cef3bg2616gdb80g290fg0d722a7abe82" version="1">Shadar Knowledge: Shortsword</content>
+  <content contentuid="h897a8752gac49g7e32g977cg3c3ad106c6ae" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shortswords.</content>
+  <content contentuid="h881a3cf7g8e25g93f7g2befg6df73e340e1f" version="1">Shadar Knowledge: Sickle</content>
+  <content contentuid="h541aa0bfg0a97g0d07g4040ge5dde98e3960" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Sickles.</content>
+  <content contentuid="h6dc5e0f9gcf6dg9a13g0fe7g743da066f421" version="1">Shadar Knowledge: Spear</content>
+  <content contentuid="hcf66c002g8faag87e4ge951g04b187a61d81" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Spears.</content>
+  <content contentuid="h8fb7ac30gba45g140dg07c4g1a9b89a90c74" version="1">Shadar Knowledge: Trident</content>
+  <content contentuid="h05b48ab5g458bg0a15gc424g765ff7e70426" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Trident.</content>
+  <content contentuid="h3855e579g4ea8gc21dg0446geced066a4cde" version="1">Shadar Knowledge: War Pick</content>
+  <content contentuid="h2862aa22g3392gedf1g5aeeg3670e33e9f4a" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in War Picks.</content>
+  <content contentuid="h5cc1b76ag19c1g873cge6b4g7a473f574ea6" version="1">Shadar Knowledge: Warhammer</content>
+  <content contentuid="h658ee1c4g71c6gd31dg2b02gb7ea6fd38fb6" version="1">Has &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Warhammers.</content>
+  <content contentuid="he570a147g78e9gf35dg6b91g99840e7c939c" version="1">Invulnerability</content>
+  <content contentuid="h946886c9g3d02g22b5gf0dcga380d3ccb004" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to all damage.</content>
+  <content contentuid="hbe1d60a6gc2b8g834ag3c9eg91cf450d201e" version="1">Trance</content>
+  <content contentuid="h633260e2g7567gf198gd036g31c5ba37cad3" version="1">You may enter a deep trance twice per day to gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in a &lt;LSTag Tooltip="Weapon"&gt;Weapon&lt;/LSTag&gt; or &lt;LSTag Tooltip="Tool:"&gt;Tool&lt;/LSTag&gt; of your choice.</content>
+  <content contentuid="h88d22743g733bg5315g0922g69fb19bf37ac" version="1">Trance: Dagger</content>
+  <content contentuid="hbadc07e8gef85gd4a7g93a8gc124807a872c" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Daggers.</content>
+  <content contentuid="h7151b233gda60g62f1g24b0g4ab6cdae7b78" version="1">Trance: Club</content>
+  <content contentuid="h85faf193g5bedgd770gb9bcg0782448c4fdc" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Clubs.</content>
+  <content contentuid="h11d67c61gea0fg2841g069bg5f486ba31343" version="1">Trance: Battleaxe</content>
+  <content contentuid="h583f024eg0addg48b4ge671g338c42f076b6" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Battleaxes.</content>
+  <content contentuid="he9d4264bgaa67g42bcgb7e6ga01f6a837b4b" version="1">Trance: Flail</content>
+  <content contentuid="hd60e59f3gc45cg3c4fg0d4agfa5f9e5b66f1" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Flails.</content>
+  <content contentuid="hd777072bgc192ga87bgcf3ag46affa31eb9d" version="1">Trance: Glaive</content>
+  <content contentuid="h0510f638g4bfcgff61gb4c9g1023af6e7710" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Glaives.</content>
+  <content contentuid="hf17e3826gb7b3geb56gf58agf46211b68daa" version="1">Trance: Greataxe</content>
+  <content contentuid="h463cde74g74abga6cdga1beg760bd3983e7f" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greataxes.</content>
+  <content contentuid="heb57de01g3232g0efeg0656g4f2e7d756ee9" version="1">Trance: Greatclub</content>
+  <content contentuid="h1156d9ebg3be4gf515g2b5dg2006e30e4b0b" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greatclubs.</content>
+  <content contentuid="h59506a30ge853g83bbga77eg9e578e41590b" version="1">Trance: Greatsword</content>
+  <content contentuid="h9b6e5373g2274g5f43g4756g169bf3753a01" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Greatswords.</content>
+  <content contentuid="h5795f11agd861gb99eg5cb2g2da9bbd625af" version="1">Trance: Halberd</content>
+  <content contentuid="h7b01f2d3g29a9g732bg9010g637b394f756d" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Halberds.</content>
+  <content contentuid="hd3cde356g27bfg0b3cg7a5cg55af37846567" version="1">Trance: Handaxe</content>
+  <content contentuid="hc75ff872ged5dg83f6gd11bg3723c69e6b84" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Handaxes.</content>
+  <content contentuid="hbe5d10d6g67e4gf967g1de2g903e80ff6119" version="1">Trance: Hand Crossbow</content>
+  <content contentuid="h7c853572ge424gdaa4g0168g900229d2e140" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Hand Crossbows.</content>
+  <content contentuid="h27a3e525g8ecag21fdgd890g1f1e9a7308c4" version="1">Trance: Heavy Crossbow</content>
+  <content contentuid="h05df0e11g083fg4b60g67a1g857e7146140b" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Heavy Crossbows.</content>
+  <content contentuid="hec16cee0g93b8g1a64g991bg20cf8fc88438" version="1">Trance: Javelin</content>
+  <content contentuid="h2643f98fge1c4gecf5g6b15ga13dfa2fa3a9" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Javelins.</content>
+  <content contentuid="h8bab5fabg8af2g1f64g7789gb42c76dca308" version="1">Trance: Light Crossbow</content>
+  <content contentuid="h333e5837gc361g00f2g86cdg09a8a6de57e6" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Light Crossbows.</content>
+  <content contentuid="hd96a7cb4gf868gde4dg7498gbe4598267bcd" version="1">Trance: Light Hammer</content>
+  <content contentuid="ha7d063begc28cge53fga919g8cd4b4f73784" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Light Hammers.</content>
+  <content contentuid="h7d12f5bag4084gcae9g9479g11162730bc5f" version="1">Trance: Longbow</content>
+  <content contentuid="hb80056bbg3fe7g7db4g061ag50e5b5f2cffc" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Longbows.</content>
+  <content contentuid="h7e9715f5g7f10gca4bg8149gd3c4c0770012" version="1">Trance: Longsword</content>
+  <content contentuid="ha9019c4ag85f8gd837g9971ga50ca59ca189" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Longswords.</content>
+  <content contentuid="h3b9c66a1gf1eagf2edge299gf197254bbd44" version="1">Trance: Mace</content>
+  <content contentuid="h1810d478g0f40gfebag69d1gdf1cccc51840" version="1">Trance: Mace</content>
+  <content contentuid="h3c15d2d8ga9c2g1600g1712g160be2fda784" version="1">Trance: Maul</content>
+  <content contentuid="h346a8690g16efgae75g595cgd20aaeffcbd0" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Mauls.</content>
+  <content contentuid="h3122a3d7gcabfgaf2bgadc2g139ab0ae493f" version="1">Trance: Morningstar</content>
+  <content contentuid="h3c48278dg58e6g3a64g497fgcfdc3dd3f0b9" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Morningstars.</content>
+  <content contentuid="hf9f30150g1a32g68dfg40c8gdc8bf9940805" version="1">Trance: Musical Instrument</content>
+  <content contentuid="hb3234ab0g2a4dg6b8ag2929g71be77e66b1b" version="2">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Musical Instruments.</content>
+  <content contentuid="h7e148a19g1f9eg70dfg6e00gccf078d8aacc" version="1">Trance: Pike</content>
+  <content contentuid="h0ee16136g4748gfbc1g7848g592ad608a5c5" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Pike.</content>
+  <content contentuid="h0d1ab05ag3b05g3a2agcfdag61c41606c775" version="1">Trance: Quarterstaff</content>
+  <content contentuid="h744e9e54gc473gf9beg5e88g35e46314d654" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Quarterstaves.</content>
+  <content contentuid="h7eee3881g223cgc750g1a4dg6fa4eab4efaf" version="1">Trance: Rapier</content>
+  <content contentuid="h9a96448cgca0dg3a43gf9a5gab3931c4b597" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Rapiers.</content>
+  <content contentuid="h863ba364g0323ga48bg5333g7f18ca83360e" version="1">Trance: Scimitar</content>
+  <content contentuid="hc63273d1gc6dbgec8bg1e54g8cadc4ddac25" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Scimitars.</content>
+  <content contentuid="hd912b44bg0596g0629g5cb7gf175acc02b61" version="1">Trance: Shield</content>
+  <content contentuid="h3769f38dg1e8dgc309g5cdcgb7ea2211dde9" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shields.</content>
+  <content contentuid="h4d559a50g2170g1a9ega1abg8976cae56382" version="1">Trance: Shortbow</content>
+  <content contentuid="h7e65eb48g917cgf7ccg1b84gfa437e4853df" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shortbows.</content>
+  <content contentuid="he68ee276g8a8dg85dag80dcgdff96507d568" version="1">Trance: Shortsword</content>
+  <content contentuid="h3bbb1f10gd04age194g6d5fg83db7d331d08" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Shortswords.</content>
+  <content contentuid="h7ecbebc4g3188g9083gff78g6728d5f368fa" version="1">Trance: Sickle</content>
+  <content contentuid="ha2e3c4f4g6c8dga98cgc9deg6ec9a92e405c" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Sickles.</content>
+  <content contentuid="h436ff9a7ge408g61c0g7b1dg8ed0ad2d9fa3" version="1">Trance: Spear</content>
+  <content contentuid="h92bb3906g6ecag796bg3745g781ea8794f5b" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Spears.</content>
+  <content contentuid="hc9ef9ddag004bgdc61g711dgb5309910a070" version="1">Trance: Trident</content>
+  <content contentuid="he3d77e40g9a27g8557gb2d1g80dcf5b52730" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Tridents.</content>
+  <content contentuid="h3dcc86d8g66ffga0b7g159bg41c725bfa2d1" version="1">Trance: War Pick</content>
+  <content contentuid="he7491403g88efg7a28g1461g59001b784bf7" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in War Picks.</content>
+  <content contentuid="h729e4820ga6a0gd0f8g6757g558d7f9fd726" version="1">Trance: Warhammer</content>
+  <content contentuid="had802d5egd968gadbbg7c09gd79f77cf4eea" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Warhammers.</content>
+  <content contentuid="h1e32b84dg88afge9fegd7bfga407505ad53a" version="1">Blessing of the Raven Queen</content>
+  <content contentuid="h1b51b9eeg3530g8fc3gd3degb3b0739004c6" version="1">You can teleport to a location you can see up to your proficiency level times per day.</content>
+  <content contentuid="hef285475g1a93g2b9ag0883g2c79587f2dde" version="1">Improved Blessing of the Raven Queen</content>
+  <content contentuid="hb2558cdfg0de8g2402ge241g5f9bd3473cba" version="1">You can teleport to a location you can see up to your proficiency level times per day. You also gain resistance to all damage for one turn.</content>
+  <content contentuid="hb01caf96g6d9cg3f74ga357g7461898c3151" version="1">Trance Point</content>
+  <content contentuid="hdeb98824gf8ccgacf1g1bf6g3e78a928af82" version="1">Twice per day you can enter a trance to gain &lt;LSTag Tooltip="Proficiency"&gt;proficiency&lt;/LSTag&gt; with a weapon or tool of your choice.</content>
+  <content contentuid="hd5bf2a51gdf26g04bcg48b6gdd358fb4031c" version="1">Raven Point</content>
+  <content contentuid="h48f19803g889bg4557gbd50g9db717a2adf4" version="1">You have a number of raven points equal to your proficiency level that you can use to teleport. Upon reaching level 3 your teleport also grants you resistance to all damage for one turn.</content>
+  <content contentuid="h9b0b1b02gf0cfgebf4g3bfcgea9308a186a5" version="1">Human</content>
+  <content contentuid="h7b17aa10g38bcg5125g4d97g3c5c48a25cb1" version="1">The most common face in Faerûn, humans are known for their tenacity, creativity, and endless capacity for growth.</content>
+  <content contentuid="hf76f6f68g5a8dg03b9g1ac4gc0c5ebcd0f9e" version="1">Baldurian</content>
+  <content contentuid="h03f9e6dfg23d0gf939gb07ag12b2aa61b3cd" version="1">You proudly hail from Baldur's Gate, jewel of the Sword Coast.</content>
+  <content contentuid="he93102d1gfb8cg9717g4dacg94c52876732f" version="1">Netherese</content>
+  <content contentuid="h7670b032gedd3g0f7ag6046g8f4f37bf2835" version="1">Netherese Shadar-kai emerged when the Spellplague awakened the latent shadow energy inherent in the bodies of those that had been born human in the Shadowfell.</content>
+  <content contentuid="h9c9aca30g4eceg7eebge87cg35fa2d7a1c0a" version="1">Shadar-Kai</content>
+  <content contentuid="h16b8edc8gded9g4c4cgc892gac50a152f6b0" version="1">Shadar-kai</content>
+  <content contentuid="h3d651bd8g004egd4ecg5adag186bb4480e4a" version="1">Enhanced Dexterity</content>
+  <content contentuid="hdb8e2d0fgefb8g3e23g70b2g187c22ad1400" version="1">Your dexterity is increased by [3].</content>
+  <content contentuid="h4a001642g8cd3g31b1g90bag602b227d6061" version="1">Gale</content>
+  <content contentuid="hb3b12185g7d16g59dag4d45g1662b4c583ce" version="1">Gale is a wizard prodigy whose love for a goddess made him attempt a dread feat no mortal should. Blighted by the forbidden magic of ancient Netheril, Gale strives to undo the corruption that is overtaking him and win back his goddess' favour before he becomes a destroyer of worlds.</content>
+  <content contentuid="h79b8e648g024cg37efgbb21geb924d1af05e" version="1">Wyll</content>
+  <content contentuid="hd9021689g39c7g11d0g37f9gb8f4399172ce" version="1">Noble by birth, Wyll made his name as the heroic 'Blade of Frontiers'. But to become a living legend, he struck a bargain with a devil, a bargain from which he longs to break free before it consumes his soul for good.</content>
+  <content contentuid="h8ea1b7d7g267eg4ae4gdacbg3dd9c09f5d25" version="1">Maddala Deadeye</content>
+  <content contentuid="h8c8dd002g6156gcda9g4c2dg8dd50d0c4909" version="1">Maddala's blindness was cured by another True Soul passing through her village - so they could watch it being burnt to the ground around them. Such was the price of refusing the Absolute. </content>
+  <content contentuid="h4a1243c5g63b9g53c9gf0b2g3846d1a08be8" version="1">The most common face in Faerûn, humans are known for their tenacity, creativity, and endless capacity for growth.</content>
+  <content contentuid="h68cd532fg3f2bg45cbg04e2g648eb12fc1dc" version="1">Human</content>
+  <content contentuid="h26aafec0g6480g1cf3g2633gb2bde476e3eb" version="1">Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Maces.</content>
+  <content contentuid="h27d0f70bgd9a8g5a02gc5e1g56950d24411c" version="1">Find Companion: Raven</content>
+  <content contentuid="h94f3f23bgb9f6g2dfdg12d8g726d464f4af3" version="1">Summon a raven familiar that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
+  <content contentuid="hd71d0e82g55adgdb18g34e3g9b58cc1ff4a4" version="1">Raven Companion</content>
+  <content contentuid="h3ac189a5g4d6ag348ag1769g97dc148ce339" version="1">You can summon a raven companion.</content>
+  <content contentuid="h7d5dceaag56ecgef33gacf3g0a5e298bb7ab" version="4">Poe</content>
+  <content contentuid="haaf362a4g2cd5gd0c0g5880gca10b0653aef" version="1">White Raven</content>
+  <content contentuid="h5fe23f59gf50bgf059g1086g658c3c5fcb9b" version="1">Summon a white raven familiar that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
+  <content contentuid="hee87ab77g246bg4f4agc249gc92dec8b8f90" version="3">Nevermore</content>
+  <content contentuid="hb5fd9825g9cccg13c0g60a3g9d2d2a02b86a" version="2">Black Raven</content>
+  <content contentuid="hd6571854g793ag6b33ga289gfb12e2ebbfcf" version="2">Summon a Black raven familiar that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
+  <content contentuid="hf8c573e7g0947g177agb6c2gcd77410d3e38" version="3">Find Raven: White Raven</content>
+  <content contentuid="h6b8376a8gdf9bgcbabg4548gaf7ec0355906" version="1">Summon a spider familiar with a poisonous &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Bite&lt;/LSTag&gt;.</content>
+  <content contentuid="h0fa22794gfb12g3745g1218ga26af40efbf4" version="3">Find Raven: Black Raven</content>
+  <content contentuid="h197ae405g09f3gb26ag6113gd94a1f042682" version="2">Summon a black raven familiar that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
+  <content contentuid="h61b3a724gfd21g4f63g6302ga1ff84f56b55" version="2">Find Raven</content>
+  <content contentuid="hd4f080ecg045ag4794g2982gbad14d75164d" version="3">Summon a raven in the color of your choosing.</content>
+  <content contentuid="h9fb3f682g7c40ge386g0dfcg85466ccb5cd5" version="3">Nevermore</content>
+  <content contentuid="hd4e9dc81g6691gd83cg22f5g49d42bd4d5cb" version="1">Summon a white raven familiar that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
+  <content contentuid="h2bde3b5ag6dcfg76beg836cgd07f8c2aaed1" version="1">Wyll</content>
+  <content contentuid="hd71238d8g8ea4gc396g6b66gffb7e049ffd3" version="1">Known as 'The Blade of Frontiers', Wyll uses his magic to fell the monsters and devils menacing the Sword Coast. In a moment of desperation, he accepted an offer of greater power, forcing him into an infernal game he is struggling to play.</content>
+  <content contentuid="h13382207gf6f4gab35gff1agc207908130b2" version="1">Gale</content>
+  <content contentuid="he0d246d0gb143g4ddeg5f05g3fa19a815a7b" version="1">Gale's wizarding prowess once earned him the love of Mystra, the goddess of magic, until his ambition led him to the brink of catastrophe...</content>
+  <content contentuid="h6665e01fga05fgfe4eg1068ge111c239418d" version="1">Maddala Deadeye</content>
+  <content contentuid="h96fd2952g1eecgfdc0gc25eg625fda6f3efa" version="1">Maddala's blindness was cured by another True Soul passing through her village - so they could watch it being burnt to the ground around them. Such was the price of refusing the Absolute. </content>
+</contentList>

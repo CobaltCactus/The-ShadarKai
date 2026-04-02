@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="11fa382c-a1d2-45ba-913c-b13062365ce8">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="39e1103d-d365-41e3-a625-4d8185f722a0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Shadar Kai abilities" />
+        <field name="Passives" type="StringTableFieldDefinition" value="ShadarKai_Intelligence, ShadarKai_Wisdom" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

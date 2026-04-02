@@ -1,0 +1,10 @@
+new entry "OBJ_Dye_Raven"
+type "Object"
+using "OBJ_Dye_BlackPink"
+data "RootTemplate" "3a01be75-74c5-4cd1-8d06-5d8e352ffa06"
+
+new entry "OBJ_Dye_Shadowfell"
+type "Object"
+using "OBJ_Dye_BlackGreen"
+data "RootTemplate" "2c53ebfa-d024-41bc-a5a5-f273aa226400"
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bfa22a59-fd65-4e35-ae0f-ac960c3b5fd2">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a1eeb002-6595-412f-9b1c-e6c49a31062e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3d651bd8g004egd4ecg5adag186bb4480e4a" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdb8e2d0fgefb8g3e23g70b2g187c22ad1400" version="1" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="Ability(2,Dexterity)" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="Ability" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

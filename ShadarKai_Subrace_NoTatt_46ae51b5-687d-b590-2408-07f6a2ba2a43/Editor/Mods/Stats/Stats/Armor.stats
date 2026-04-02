@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0e80cbad-40ca-4cbf-9a2e-8d15b240885f" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Underwear_ShadarKai" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="41faba63-f4e0-492f-9ee2-3e55b3573495" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a1b14133-6506-46b1-9820-dde65eaaf59d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Camp_Body_ShadarKai" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2680cacc-da97-4c01-86e3-48c13be05eef" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f27e73b3-5917-4467-8374-8ba112490810" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

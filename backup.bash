@@ -8,7 +8,7 @@ MOD_SUBDIRS=(
   "ShadarKai_87c2216f-e6a3-1846-8be1-85f8988c0447"
   "ShadarKai_NoTatt_59370102-4347-cfd7-3ed5-4f6f66badb8a"
   "ShadarKai_Subrace_05f04f05-db8e-3390-1ed6-2861e65602bc"
-  "ShadarKai_NoTatt_59370102-4347-cfd7-3ed5-4f6f66badb8a"
+  "ShadarKai_Subrace_NoTatt_46ae51b5-687d-b590-2408-07f6a2ba2a43"
 )
 
 #set this to your BG3/data folder path

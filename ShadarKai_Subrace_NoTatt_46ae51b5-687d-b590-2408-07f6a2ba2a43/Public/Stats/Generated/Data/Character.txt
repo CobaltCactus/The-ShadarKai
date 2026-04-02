@@ -1,0 +1,5 @@
+new entry "HeroShadarkaiBaseStats"
+type "Character"
+using "_Hero"
+data "Weight" "75"
+

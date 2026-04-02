@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationSkinColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he842237ag1e99g50f5g30fdgee343c4531a0" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="222e9fc5-5028-847f-44f3-3058790defaa"/>
+                    <attribute id="Name" type="FixedString" value="SHA_Smoke_1"/>
+                    <attribute id="UIColor" type="LSString" value="#FFFDFDFD"/>
+                    <attribute id="UUID" type="guid" value="5062fc94-e557-4221-a0cb-c3076be25ede"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5b03542cg27b9g0472g9689g8f74237920c4" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="94ceebf6-f732-1ef7-d044-c5112dc1e567"/>
+                    <attribute id="Name" type="FixedString" value="SHA_Smoke_2"/>
+                    <attribute id="UIColor" type="LSString" value="#FFD2D2D2"/>
+                    <attribute id="UUID" type="guid" value="53539ec2-132d-4b89-950b-b3e0c52c9c13"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hed2a56efga8ecg9c98g602dg7c32c7bf1586" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="80a72615-d845-a44a-0538-f4327864d7ca"/>
+                    <attribute id="Name" type="FixedString" value="SHA_Smoke_3"/>
+                    <attribute id="UIColor" type="LSString" value="#FFABABAB"/>
+                    <attribute id="UUID" type="guid" value="b2a36f1e-458f-491d-b787-e28c14c031ec"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h647bad54g5c37g3591gfde9g59b6824472e4" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3efe1af8-15ee-c266-e17f-903e27113190"/>
+                    <attribute id="Name" type="FixedString" value="SHA_Smoke_4"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A8A8A"/>
+                    <attribute id="UUID" type="guid" value="4f54ba08-f910-4455-a62d-674b8bd000e8"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb1ada5b9g3691gdd33g2e5dge5c2430de0d4" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e7866bc1-581f-0a24-14e4-5d15491d287f"/>
+                    <attribute id="Name" type="FixedString" value="SHA_Smoke_5"/>
+                    <attribute id="UIColor" type="LSString" value="#FF6D6D6D"/>
+                    <attribute id="UUID" type="guid" value="ea624b10-9f52-4a28-8763-94155270be7b"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd219ac1bg6c53gd7b9gd5c9g1a336a6feb87" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="619342d3-84d3-1723-63b8-3eaa987a4a72"/>
+                    <attribute id="Name" type="FixedString" value="SHA_Smoke_6"/>
+                    <attribute id="UUID" type="guid" value="d3a16fec-351d-45ae-b94a-45d97859a606"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

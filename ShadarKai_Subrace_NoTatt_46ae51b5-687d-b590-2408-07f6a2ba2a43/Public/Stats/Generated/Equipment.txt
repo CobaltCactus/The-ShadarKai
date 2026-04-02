@@ -1,0 +1,4 @@
+new equipment "EQ_Underwear_ShadarKai"
+add equipmentgroup
+add equipment entry "ARM_Underwear_ShadarKai"
+

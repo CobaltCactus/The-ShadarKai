@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3f5063e7-e02b-4849-a503-9ba01dc6e2e6">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ebeddea9-f7ff-45af-b056-f9ff526df60f" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai racial" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_ShadarKnowledge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a218070e-d81d-486d-a6d0-d61106e5298e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Blessing of the Raven Queen" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Blessing_of_the_Raven_Queen" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8b6282f3-d172-4e4c-8964-46f08c4d23fe" />
+        <field name="Name" type="NameTableFieldDefinition" value="Improved Blessing of the Raven Queen" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_Blessing_of_the_Raven_Queen_2" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
