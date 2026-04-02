@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="he0d3114fgb84fg11f1ge838geb9ac2f75030" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha4928a11g473fgb2ddg9c36g5f16fbb24e53" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="2"/>
+                    <attribute id="Name" type="FixedString" value="TrancePoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="ba7df9bb-1b18-4a60-a294-a5df1c65c957"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h99e5f115gcc9ag7aefg48d5gf7ca5ce47b82" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9a9a66a6g746eg9bc9g0b2bg633d1b13d344" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="RavenPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="32a4b03d-61bf-434a-89b0-137071731290"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

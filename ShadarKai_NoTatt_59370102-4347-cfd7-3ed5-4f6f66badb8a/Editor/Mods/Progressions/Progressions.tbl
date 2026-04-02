@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_423" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6caa928b-7d51-4893-8ee9-91f1e4d4d732" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Movement;UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;ShadarKai_Perception;RavenCompanion" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(8d79e901-dd13-4463-bcac-450db5ba8547);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7c1fc263-ea3b-4a46-bdb8-d9bd66b0856e" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai" />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ImprovedRavenBlessing" />
+        <field name="PassivesRemoved" type="StringTableFieldDefinition" value="RavenBlessing" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d007c8c8-b520-4d1c-bf89-6294d9618f30" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3e0512f4-8597-4cbf-9e17-87556ea0d29a" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="493a7ca7-229c-4c5b-b463-0f74ff5a8da5" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="c066021b-fc04-4c19-927a-f41e1d6d95ed" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai_Human" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="ShadarKai_Winterkin;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e0399d0c-56d1-4f9d-9e71-a34ee75e66ca" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="12166cc1-3442-4edc-b0da-e5d440e0fb84" />
+        <field name="FSName" type="StringTableFieldDefinition" value="ShadarKai_Elf" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="FeyAncestry;" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,4 @@
+new entry "HeroShadarKai_BaseStats"
+type "Character"
+using "_Hero"
+

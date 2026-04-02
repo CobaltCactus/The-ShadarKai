@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1b9192ed-dadb-489e-a43d-a30ffb358095" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Movement" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h335fa3c9ga3d8g3a60gea59gdcde9dd2bb33" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h46ed43eeg4435ge123g2d55g5f8ce6d443c5" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(9);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(Movement,9,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c554fcb1-e6e9-4849-a9f4-00da068be7f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Immunity" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h57699a25geb2cgf91dg7f81g27f85a8683f3" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h636433f1g7969g0be8gcbeege0a4bdefa67d" version="4" />
+        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_Moonshield" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="ForceShowInCC" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Necrotic, Resistant);Tag(ACT2_SHADOW_CURSE_IMMUNE);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f68ecbd8-fd3c-4556-8659-cb658f2c2eef" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Perception" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h10b9b8f4g3898ga739gc1b1g96e006db4d67" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he4960097gb16fgee67ge1e9g8c06f2205933" version="4" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill, Perception)&#xD;&#xA;" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b48a0e2f-ab83-4d04-889e-646d6f97eba5" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_Winterkin" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd63b1138g4c64gbb60g9416g258f9c591a07" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hedcc6b59ga562g05c8ge3f1g8c2505629794" version="3" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Paladin_AuraOfProtection" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RollBonus(DeathSavingThrow, 2) " />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a3363e6-2ab5-4895-86ef-fc227f611066" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_NecroResist" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4efcf87cg446ag02cdgb25dg732478e2ff80" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h087ba76cg1e31g27efgf79eg5ced8dddc331" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="statIcons_Resistance_Necrotic" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Necrotic, Resistant);Tag(ACT2_SHADOW_CURSE_IMMUNE);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4027600b-9b08-4fee-9d90-141b347c1bea" />
+        <field name="Name" type="NameTableFieldDefinition" value="UnlockedRavenPointsLevel1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4a7e5b86g172eg8d50ge3adg7bd526ba765c" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he24c2c67g8fe3g6675g0029ge982316b3ed0" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(RavenPoint,2,0);" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="512777f5-f726-4223-8f02-aeb21a55d390" />
+        <field name="Name" type="NameTableFieldDefinition" value="UnlockedRavenPointsLevel2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4027600b-9b08-4fee-9d90-141b347c1bea" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he8ed8c9ag3ceag4e51g6769g4df3ea2b086a" version="3" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(RavenPoint,1,0)" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ee64cf5e-7da5-4e80-ac3b-035a2e1172c4" />
+        <field name="Name" type="NameTableFieldDefinition" value="UnlockedRavenPointsLevel3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4027600b-9b08-4fee-9d90-141b347c1bea" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7f7dd89eg859fgf1c7g9183gd0c45b5b6a9f" version="3" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(RavenPoint,1,0)" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="84dc8ca5-0330-4fca-b874-961a5f694ff3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ShadarKai_TrancePoints" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd6cc78d0ga505g1665gea34g3316b0192b18" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h926f0c78g1af9g1a2eg8e35g97e8d295f3b2" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(TrancePoint,2,0)" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="35239398-3922-46db-b134-af383cc76799" />
+        <field name="Name" type="NameTableFieldDefinition" value="RavenBlessing" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfae06229g7ba4gc9aeg1f78ge434e74900e7" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd3fc2ea1g28c8g0dc9gd2c3g7847970272eb" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Blessing_of_the_Raven_Queen);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3d1cb390-8ce5-43bb-8f74-fdce366a8769" />
+        <field name="Name" type="NameTableFieldDefinition" value="ImprovedRavenBlessing" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h05b89472g0342g8a43g4066g519255588e18" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h65cb60c2g4487gaf6bgc229gefced53b24a2" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_Blessing_of_the_Raven_Queen_2);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8476a1f9-a242-411c-95a0-afc670b84a41" />
+        <field name="Name" type="NameTableFieldDefinition" value="RavenCompanion" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4d40da66ge9dfg80d9g11b9g87b25d1aaa33" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h34c831d5g257eg648agfe16gc9cee754df4f" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_RavenCompanion);" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

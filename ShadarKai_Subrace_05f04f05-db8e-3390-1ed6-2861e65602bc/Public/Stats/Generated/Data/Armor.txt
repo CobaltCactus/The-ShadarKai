@@ -1,0 +1,10 @@
+new entry "ARM_Underwear_ShadarKai"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "00ec6037-20dd-4b7a-a4be-9e38d3a9813d"
+
+new entry "ARM_Camp_Body_ShadarKai"
+type "Armor"
+using "_Vanity_Body_Generic_Common"
+data "RootTemplate" "401ab672-fd02-4fe1-85e0-47b1f2ea6ddb"
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="ShadarKai racial"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ShadarKnowledge"/>
+                    <attribute id="UUID" type="guid" value="a88fc3c9-681d-4cf9-821e-c150f38e7a73"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Blessing of the Raven Queen"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blessing_of_the_Raven_Queen"/>
+                    <attribute id="UUID" type="guid" value="4fb7fb3f-241e-4375-8565-799f28fd7199"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Improved Blessing of the Raven Queen"/>
+                    <attribute id="Spells" type="LSString" value="Target_Blessing_of_the_Raven_Queen_2"/>
+                    <attribute id="UUID" type="guid" value="52bf2225-3b2c-4aa1-a10e-9798291cacb4"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

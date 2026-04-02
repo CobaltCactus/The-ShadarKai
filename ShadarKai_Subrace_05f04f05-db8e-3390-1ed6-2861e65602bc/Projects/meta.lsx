@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="05f04f05-db8e-3390-1ed6-2861e65602bc"/>
+            <attribute id="Name" type="LSString" value="ShadarKai_Subrace"/>
+            <attribute id="UUID" type="LSString" value="30b7c68b-0ddf-6c6e-c75d-8d71e505be26"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

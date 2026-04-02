@@ -4,10 +4,12 @@
 set -e
 
 #TODO: Set list of mod folder(s) here
-#MOD_SUBDIRS=(
-  #"LMS_Option_1_a5aa97a9-4359-bbc1-6a3f-7b4beb433fe9"
-  #"LMS_option_2_bd288a42-f9ee-637c-f968-c696f878fff7"
-#)
+MOD_SUBDIRS=(
+  "ShadarKai_87c2216f-e6a3-1846-8be1-85f8988c0447"
+  "ShadarKai_NoTatt_59370102-4347-cfd7-3ed5-4f6f66badb8a"
+  "ShadarKai_Subrace_05f04f05-db8e-3390-1ed6-2861e65602bc"
+  "ShadarKai_NoTatt_59370102-4347-cfd7-3ed5-4f6f66badb8a"
+)
 
 #set this to your BG3/data folder path
 BG3_DATA="/d/Program Files (x86)/Steam/steamapps/common/Baldurs Gate 3/Data"

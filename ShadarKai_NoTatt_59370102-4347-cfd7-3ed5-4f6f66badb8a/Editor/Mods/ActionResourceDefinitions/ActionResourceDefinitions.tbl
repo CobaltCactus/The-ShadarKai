@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="1f196a87-8d84-424d-badc-a3d11c5b8d23">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fea0da06-7f62-4668-8620-eb4087d5dcd5" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="AstralPoint" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7c42347ag6317g6f46ge14fgfa477baf7139" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha3b74c65g69f9ge1a4g344cg2756e9d39d5c" version="1" />
+        <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MaxValue" type="IntegerTableFieldDefinition" value="2" />
+        <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="Rest" />
+        <field name="ShowOnActionResourcePanel" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dd6665a5-5f0c-4130-80c7-109426c87c46" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="TrancePoint" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h348ad70fgd804gc655gef6eg033060c4f28d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="haa797072ge54bgf054g81deged40e00409f6" version="1" />
+        <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MaxValue" type="IntegerTableFieldDefinition" value="2" />
+        <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="Rest" />
+        <field name="ShowOnActionResourcePanel" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="98e44953-8c4e-4898-bd3d-907ad09aaa94" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="RavenPoint" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd8557e5fgc5e1g3f4dgda0fg7dca2e211c48" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h363c9b0cgff38g6582ge4b5gacbd9f297277" version="1" />
+        <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
+        <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="Rest" />
+        <field name="ShowOnActionResourcePanel" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

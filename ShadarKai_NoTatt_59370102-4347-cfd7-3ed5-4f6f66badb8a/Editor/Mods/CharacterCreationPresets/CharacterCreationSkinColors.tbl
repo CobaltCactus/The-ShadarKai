@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="6af7c7da-7f7c-4bf2-a517-73b98f894305">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3d344493-79e8-42dc-8fae-a05d6e49d3c2" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SHA_Smoke_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbff23e06gc2c4g79a4g7ed9gf5e8107c580e" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="40966b14-52c2-b21b-3459-14b340701827" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFFDFDFD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dbafa0a6-f13c-4c0b-8ce4-832d11104034" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SHA_Smoke_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4cff2e75ga1b1g10fdg5c64g349b4fe163f6" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="53db7556-3e2b-f206-614a-cb74934d1f25" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFD2D2D2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5fdcdf36-ca56-4d93-ad46-625043b70350" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SHA_Smoke_3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha32c8676g1a3egb6a7ga068g41e556d47adf" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="0647bee9-fa48-d5d5-3785-f1e7552fc887" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFABABAB" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dd706632-dd83-4293-8fdd-66de2eb83d7f" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SHA_Smoke_4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9611129eg9ab2gfab3gfde6gba8728f213ee" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ea9d32b8-4415-e257-045c-d60c723bb0f6" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A8A8A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="31b155e6-1e2a-4893-8b18-c11cc67a572d" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SHA_Smoke_5" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h75a1b0a0gb3adg1fbegc70bg2758d3d8eb08" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="77f482a4-6b46-91c9-93f9-cbcb0863318d" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF6D6D6D" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5364497a-f324-420e-b5fb-e7d5a1cf0a80" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SHA_Smoke_6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h62884744gb979g0ed1g2a3fg826cc93d2925" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="3861b865-fb99-d88c-2185-17b44a35a027" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF272727" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

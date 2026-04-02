@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Shadarkai"/>
+                    <attribute id="Spells" type="LSString" value="Target_BlessingRavenQueen;Target_ShadarKaiRaven"/>
+                    <attribute id="UUID" type="guid" value="27482370-b873-4840-a0b6-817fbfae6cad"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

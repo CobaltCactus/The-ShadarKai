@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="562130b2-6eac-4ef1-8de7-09e668d271a0" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Dye_Raven" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="562130b2-6eac-4ef1-8de7-09e668d271a0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d99767a7-69b7-4fd4-ab69-144fc1058fbb" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Dye_Shadowfell" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="562130b2-6eac-4ef1-8de7-09e668d271a0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7501178a-4011-463c-935f-6324a0397999" />
+        <field name="Name" type="NameTableFieldDefinition" value="562130b2-6eac-4ef1-8de7-09e668d271a0_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Body_ShadarKai" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="625cb8c7-55cb-46fd-874d-e74bf87f978e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ST_Dyes_AllVeryRare" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="4,1;5,1;6,1;7,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Dye_Raven" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dde33f23-73f5-4e5e-9bed-66bdedf9db19" />
+        <field name="Name" type="NameTableFieldDefinition" value="ST_Dyes_AllRare" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="4,1;5,1;6,1;7,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Dye_Shadowfell" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

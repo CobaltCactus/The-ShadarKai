@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e988a674-28fe-49d2-a6ce-c5c1e0141f4c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b52db1c3-f7c3-44cc-8cee-83e6595b9a33" />
+        <field name="Name" type="NameTableFieldDefinition" value="Blessing_of_the_Raven_Queen" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:TeleportSource();" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('') and not Character() and not Self();" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Raven_Blessing" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbd709afbge84fgaef2gba9egc2d89fcb0950" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcdb0299fg0148g9538gcbf5g3bf2b29b32fc" version="1" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_MistyStep_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_MistyStep_L1to3" />
+        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Teleport" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;RavenPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9745d2e5-2519-411a-947f-7545e0095d85,,;,,;236087a5-5597-4ee7-ab06-75b01147f596,,;ee0b6a78-c6b6-4852-aecb-d7c474a37d68,,;2e9fd124-beca-40a5-b331-2be9bbf1e6cf,,;,,;e8f1a72e-d8b8-46b1-951f-050d53f73663,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IgnoreSilence;Invisible" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="LineOfSightFlags" type="EnumerationListTableFieldDefinition" value="AddSourceHeight" enumeration_type_name="LineOfSightFlags" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="71859b27-bdda-44c3-8c65-7f142a1a2f60" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3ce3f087-becb-4a5c-832f-f951119fdd85" />
+        <field name="Name" type="NameTableFieldDefinition" value="Blessing_of_the_Raven_Queen_2" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="CooldownType" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:TeleportSource();ApplyStatus(RESISTANCE,100,1);GROUND:ApplyStatus(SELF, SHADAR_INVULNERABILITY,100,1);" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('') and not Character() and not Self();" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Raven_Blessing" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf0c8b9c4gbbb8ge239g1713g3a909152da23" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1d9997e1gf591gcc94g17d4gcdec87b5a073" version="1" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_MistyStep_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_MistyStep_L1to3" />
+        <field name="VocalComponentSound" type="StringTableFieldDefinition" value="Vocal_Component_Teleport" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;RavenPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="9745d2e5-2519-411a-947f-7545e0095d85,,;,,;236087a5-5597-4ee7-ab06-75b01147f596,,;ee0b6a78-c6b6-4852-aecb-d7c474a37d68,,;2e9fd124-beca-40a5-b331-2be9bbf1e6cf,,;,,;e8f1a72e-d8b8-46b1-951f-050d53f73663,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IgnoreSilence;Invisible" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="LineOfSightFlags" type="EnumerationListTableFieldDefinition" value="AddSourceHeight" enumeration_type_name="LineOfSightFlags" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="71859b27-bdda-44c3-8c65-7f142a1a2f60" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9a7a8df7-f687-4096-8172-1ed42e8acd13" />
+        <field name="Name" type="NameTableFieldDefinition" value="RavenCompanion" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="18" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_FindFamiliar" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff22db93gca28gc940g7dabg6dd80cd05c76" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h39985f06g0710g290cg2c0cg9a16afc33b6c" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="6f42f5f3-7a5a-4441-a02e-71b0450ac4b7,,;,,;605d49b4-03b9-47f6-96e9-7f80e6be7514,,;fbf20742-9dbf-475b-9ff5-42e4b08064ad,,;42aaefdc-cf9b-4249-b159-285041851f69,,;,,;20e11c98-fff9-4417-88de-5bcc2368a1bd,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Summon" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasSomaticComponent;HasVerbalComponent;HasHighGroundRangeExtension;IsLinkedSpellContainer;CannotTargetCharacter;CannotTargetItems" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Summon_FindFamiliar_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Summon_FindFamiliar_L1to3" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Target_RavenCompanion_Black;Target_RavenCompanion_White;" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="739617e8-1255-4429-8b96-cc86296e0366" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="23d05225-027b-4656-97f8-564b185d37a2" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Psychic" enumeration_type_name="Damage Type" version="1" />
+        <field name="TooltipUpcastDescription" type="GuidObjectTableFieldDefinition" value="6ff1780a-855a-414c-a8bf-811251537206" />
+        <field name="RitualCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerShortRest" enumeration_type_name="CooldownType" version="1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" value="TutorialSummonBlockCheck()" />
+        <field name="RequirementEvents" type="EnumerationListTableFieldDefinition" value="OnStatusRemoved;OnStatusApplied" enumeration_type_name="StatusEvent" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6be7484b-8d24-437a-8677-8472717681fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="RavenCompanion_Black" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9a7a8df7-f687-4096-8172-1ed42e8acd13" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfaefa0a4g5421gfe65gda6fg27ca80149c3b" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_FindFamiliar_Raven" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Summon_FindFamiliar_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Summon_FindFamiliar_L1to3" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_RavenCompanion" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:IF(IsImprovedPactOfTheChain()):Summon(45cb3fdc-7797-4746-a245-c2e6b9b00a9a, Permanent,,,'FindFamiliarStack',UNSUMMON_ABLE,EXTRA_ATTACK_THIRSTING_BLADE_TECHNICAL,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(not IsImprovedPactOfTheChain()):Summon(45cb3fdc-7797-4746-a245-c2e6b9b00a9a, Permanent,,,'FindFamiliarStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK,PACTOFTHECHAIN_RAVEN);" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('ecdffa46-80bd-41d2-8a50-4460a2810672') and not Character() and not Self()" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7122281cg1944gdf51gf234g181019295200" version="1" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="a74686e9-9ff0-4108-8f0d-107faa2bcd26" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="df0dee27-6725-4a7c-ab1b-389fd7912e39" />
+        <field name="Name" type="NameTableFieldDefinition" value="RavenCompanion_White" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9a7a8df7-f687-4096-8172-1ed42e8acd13" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf059a599g43edgc191g10c9g1add684f9347" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:IF(IsImprovedPactOfTheChain()):Summon(17df12b4-86a7-4b30-8000-8293660e39a1, Permanent,,,'FindFamiliarStack',UNSUMMON_ABLE,EXTRA_ATTACK_THIRSTING_BLADE_TECHNICAL,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(not IsImprovedPactOfTheChain()):Summon(17df12b4-86a7-4b30-8000-8293660e39a1, Permanent,,,'FindFamiliarStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK,PACTOFTHECHAIN_RAVEN);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Conjuration_FindFamiliar_RavenWhite" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Summon_FindFamiliar_L1to3" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Summon_FindFamiliar_L1to3" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('739b8af1-643d-4cc9-b5bd-3628cd3acc40') and not Character() and not Self()" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_RavenCompanion" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3a363efag93bcg2a44g8c89g73308bb57871" version="1" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="9a8d6d5e-8b27-48dd-9c8f-72fa9ef07e28" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

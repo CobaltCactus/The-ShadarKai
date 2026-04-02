@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Acrobatics;Stealth"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="a7fdf66c-71d5-468e-a2fb-44bba120589f"/>
+                    <attribute id="UUID" type="guid" value="9cfa8ead-a7bf-474c-86e7-a230d0ebd14a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

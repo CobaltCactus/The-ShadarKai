@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="Gods">
+        <node id="root">
+            <children>
+                <node id="God">
+                    <attribute id="Description" type="TranslatedString" handle="h283ca05dga88eg905ag6abeg874e6d7e7cbb" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h302cc6adgd040g877cgfc96gab1b4965ee60" version="1"/>
+                    <attribute id="Name" type="FixedString" value="RavenQueen"/>
+                    <attribute id="UUID" type="guid" value="232b9bd2-cb62-4d57-b4d2-39b6666ed124"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c1ff8a7f-c430-4671-bc4e-098f874ae302"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="33dc5cf2-f2d6-4bb8-b64e-519f5d5ca308"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

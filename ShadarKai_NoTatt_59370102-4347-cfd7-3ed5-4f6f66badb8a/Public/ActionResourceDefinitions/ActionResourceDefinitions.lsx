@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="ha3b74c65g69f9ge1a4g344cg2756e9d39d5c" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7c42347ag6317g6f46ge14fgfa477baf7139" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="2"/>
+                    <attribute id="Name" type="FixedString" value="AstralPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="fea0da06-7f62-4668-8620-eb4087d5dcd5"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="haa797072ge54bgf054g81deged40e00409f6" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h348ad70fgd804gc655gef6eg033060c4f28d" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="2"/>
+                    <attribute id="Name" type="FixedString" value="TrancePoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="dd6665a5-5f0c-4130-80c7-109426c87c46"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h363c9b0cgff38g6582ge4b5gacbd9f297277" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd8557e5fgc5e1g3f4dgda0fg7dca2e211c48" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="RavenPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="98e44953-8c4e-4898-bd3d-907ad09aaa94"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

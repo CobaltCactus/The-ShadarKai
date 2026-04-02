@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e2a8d59b-0e34-4a7c-bf5f-db7a2bb34cde">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f7e3ee5a-6804-4e57-a1a4-427e5b164c6a" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h25691d1cgeb76ge968g65a8g7545a10f78c1" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hedb769a6g059fg7907g8548gf01b7ec58538" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_BATTLEAXE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1003548fg83dcg7d74g12d9g0014d94f5f6e" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="haa071b19g8ed1g9279gcb99g37256dd8228f" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Battleaxes);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="98ee9e68-432a-4197-86b4-7c44d0012577" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_CLUB" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h130eab00gab29ge911gad97g03e4653caa36" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc200ed4ag95bag1e91g34d7g9befbb5a4c35" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Clubs);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Club" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d0ea5695-259f-4193-8309-d22b0db634bd" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_DAGGER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8c5bca65g7943gea69g0f74g5c7bb8d983e1" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h31ebf769g09c6gaedcg0c62gdb834ca250f1" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Daggers);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Dagger" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ae90ebce-b5ca-473e-af81-937a21604f6d" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_FLAIL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h882c4374ge7d2g18f6g802bgb2ef332ee29a" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h29e25be5g7879gdaa4g6411gb81f3d4f9384" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Flails);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Flail" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="37b6af4f-487e-456a-939b-751a4c629bc5" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_GLAIVE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc462728cg2551gde50g576egf620af672d5f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h904c05d8g4189g726bgd717ga3712c47c520" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Glaives);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Glaive" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a655cc92-8afc-409f-b77f-cb19f3ff7be2" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_GREATAXE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h49d3f123gabf6g1f4bgf1a6g06144131a012" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf1fddd95gf166g9db6gac88g2bf459b3b7b4" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Greataxes);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Greataxe" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="866640d6-47b0-4123-93ed-79002b93dff4" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_GREATCLUB" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4f7382aeg96d0g567dg12e6g37ce514ae7f6" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h33a7e93eg8aa9g1e2cgcd57ge212515bcfc1" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Greatclubs);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Greatclub" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="665a58d2-4562-43b0-bba4-90f88d1d1baf" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_GREATSWORD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he49a2b66g9b85gc611g6099g51cef0c06306" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8a7b3bf9g043fg8ee4g5e57g860082fba2fd" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Greatswords);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Greatsword" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1cffcabc-5cc1-490c-b6f4-f11405a947a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_HALBERD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9c22e7f9g63a2g0c84ge85ega8ef7793c14c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8ff3300ega61fg3534gac52g05f14f0de86f" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Halberds);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Halberd" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="49662774-3cfc-436c-8409-0ec60e9ddf18" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_HANDAXE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6de52021g0308g0649geaf1g7266ffd05706" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9bd7e68fgdd01gc42egca84ge41962b96b38" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Handaxes);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Handaxe" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ced8025e-0efe-42f0-91a8-a0733cac32a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_HANDCROSSBOW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0f3b0761g5fbdg01a6g7fdbg976eeaf5f443" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h10546832gbc76g7ecfgb22cg7955a670597c" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(HandCrossbows);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_HandCrossbow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1cb07b28-df8b-43b4-bfea-6cc818fab443" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_HEAVYCROSSBOW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd8e4633bgab41g9882gd15dg31d59c0de5ec" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf1c9ca3ag84a7ga6cag1f44gf55f333e7096" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(HeavyCrossbows);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_HeavyCrossbow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="95be989f-424e-4db2-b029-27f58711971b" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_JAVELIN" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4c57e8f6g33ccg4ebbg5c98g52dc3caa7101" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc39cf8ddg0e8fg8533ga457g98ba2e3c79a8" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Javelins);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Javelin" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ed664b08-5bc6-41d1-982d-008c37ebf4ed" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_LIGHTCROSSBOW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h64067aa2g37c3gd63bg5748g2c8e7a64a9e3" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h06135cfag38b6g9f55g77e3g90a9d4810bb8" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(LightCrossbows);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_LightCrossbow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f56716e7-1eda-44c4-8587-fcaacf550abb" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_LIGHTHAMMER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6c95370eg654fg5973g107dgf934fdc6ad24" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7894994dg24b4g1644g0e94g0210ccb4357d" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(LightHammers);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_LightHammer" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c9cd2adb-c97d-4efd-9bb8-72ee9a295f55" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_LONGBOW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9f048eefge948gaa64g445cg7f07216a041b" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h43c37eb6g7451gce45gf1d3g6cd4a4dc0aef" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Longbows);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Longbow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e41161c9-76f8-4686-81dc-7f4f967f4fc8" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_LONGSWORD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h10bd3992g220eg4274gd974gac4b9ada982a" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdd6c62ddg475dgb2a5g7c42ga9269e1dd1fd" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Longswords);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Longsword" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ee794d5-c198-4fda-90c3-df5f9af83341" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_MACE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0bc140abga418g41e4g3c7dgcc24f79dc212" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6c9d48b0g1b54gd233ge991gda10488848a8" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Maces);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Mace" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="aeb1a81b-10e6-4f35-be17-3e2e2d4686a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_MAUL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h992b8783g947eg2ae6g0c32g583590a6cc71" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0e768ec8ge860gfa6bg9d4fg3549d02547cf" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Mauls);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Maul" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="08706c91-1677-4cd5-81e5-3c3c9be8aa22" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_MORNINGSTAR" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd4225738g7ec9gebdagf36dg40e49a289515" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd8d048c4g6feegad47g9622g22e0f8f2f235" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Morningstars);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Morningstar" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cae928d4-60d6-474c-99f0-67fecb0bb8b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_MUSICALINSTRUMENT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha49b98edg5c27ge502g1986gdfce08b15e86" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc6302817g35e8gb7bagb6fagbd141f4f5b6c" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(MusicalInstrument);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_MusicalInstrument" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b32437ca-81c9-4949-be81-d4baf6d01da8" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_PIKE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h78dc54adg4093g5347g704fgf1f76b42fe1c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hff47d520g4ea9ga674g4de4gf4311a3a6930" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Pikes);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Pike" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="46eb23e5-85aa-43ae-ae54-9926c8dc224d" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_QUARTERSTAFF" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf7b521b0ge58agf487gb742gb42202526956" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="haa407d77ga38bge278g198eg9b4136ba59df" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Quarterstaffs);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Quarterstaff" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="529afb9b-d880-43bf-822e-7d253e62651a" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_RAPIER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b2fb14bga9d3gd794gd65ag92699e884e53" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2688f4a5gc49bgececgd969g7aa0245f4885" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Rapiers);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Rapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="031255fc-bfc5-4b78-aef7-7347ce6e0ff7" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_SCIMITAR" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2eee432egd88fge2a7gf04cgd72b3c407fed" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbbcdc84bgf77cg85b2g7e2dg05e3b94c7d9d" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Scimitars);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Scimitar" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6485bca5-a215-4f20-bf4a-1d64e37527c3" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_SHIELD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc8e64475gba5fg2989g77a3ga8aba4ab1143" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb4dd8e97gbf06gf8d8g3113ga0210639767f" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Shield" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Shields);" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="33a7a217-e446-423d-9c12-18fb8907046e" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_SHORTBOW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd5f4cefcg4c6agcac4gafcbg5fef76d67a1a" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf95f54dcg98f9g900dg4096g9879fdda1bbe" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Shortbows);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Shortbow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5a34e9de-390a-4541-976f-0dd41c91c852" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_SHORTSWORD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h362bdd1ag73f3gc4d0g176agd50738e2d85c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h53e4acb5g0c84gc589g5657g8b1c305fb1a5" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Shortswords);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Shortsword" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0f8f33e1-7a6f-4650-b657-1a54e8a292a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_SICKLE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbc605da5gb8b8g195eg14c1g5867b905af56" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4db0d34ag1a5cg1cb8g561fgadb64ec5b181" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Sickles);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Sickle" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b8d300c4-5fa6-42ce-b51c-65ebc2b0fcc0" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_SPEAR" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h211dadc4geaa0gd856g0ba6g83d81b726dbe" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h50584fdfg980bg204dg7f0fgc9aaee3911da" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Spears);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Spear" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6f715944-1f09-4f00-aba1-13528e5d8938" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_TRIDENT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8694f161g5679gbfaag36b4g84e1f81d01cb" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4b42edebg1ca2gfc26gac37gfd3f85a26d68" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Tridents);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Trident" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1f5dfc0c-4fed-4d8d-8d71-fe65e5604ae1" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_WARPICK" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h25def7a9g7e68g66f5g2afbge2b6a6446c03" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3f7e3e3cg324fgd474g5812gf8a6ca97e915" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Warpicks);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_War Pick" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ad4adec9-df1e-4ed0-a4a2-b551ac5ce8fa" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_KNOWLEDGE_WARHAMMER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="05042dae-6c56-441c-bef2-6ba917342154" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h71ad8494g02c5g8e34gb3aagcb86559e7830" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcfc3d51bg38e4g14f5g6100g89c705f70171" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(Warhammers);" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_ShadarKnowledge_Warhammer" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f37b739e-5110-421e-82fa-e9b6e656f12d" />
+        <field name="Name" type="NameTableFieldDefinition" value="SHADAR_INVULNERABILITY" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hacd1a4d1g175bg7904gc76ag8e3ec5135660" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb8996542g2f5agbe6bgc2dagf6a313e0d6b5" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Invulnerable" />
+        <field name="StackId" type="StringTableFieldDefinition" value="POTION_OF_INVULNERABILITY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Resistance(Acid, Resistant); Resistance(Cold, Resistant); Resistance(Fire, Resistant); Resistance(Lightning, Resistant); Resistance(Thunder, Resistant); Resistance(Force, Resistant); Resistance(Psychic, Resistant); Resistance(Necrotic, Resistant); Resistance(Poison,Resistant);Resistance(Radiant, Resistant); Resistance(Slashing, Resistant);  Resistance(Piercing, Resistant); Resistance(Bludgeoning, Resistant)" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="b229d7e0-d0b3-4052-9bee-2cf3f41b7b07" />
+        <field name="ManagedStatusEffectType" type="EnumerationTableFieldDefinition" value="Positive" enumeration_type_name="ManagedStatusEffectType" version="1" />
+        <field name="ManagedStatusEffectGroup" type="GuidObjectTableFieldDefinition" value="6435c10a-c67d-4f79-8813-b84b0762f92b" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="AI_ONLY:IF(not HasStatus('POTION_OF_INVULNERABILITY')):ApplyStatus(SELF,AI_HELPER_BUFF_MASSIVE,100,3)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

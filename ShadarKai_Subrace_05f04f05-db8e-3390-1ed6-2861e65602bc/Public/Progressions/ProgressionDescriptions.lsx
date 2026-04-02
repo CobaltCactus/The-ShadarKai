@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h9333cbc0gb645g2f17g76aag3f828a29c91f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h878d9809g5cd8g32e5ga4e8g58b03ac24308" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Ability(2,Dexterity)"/>
+                    <attribute id="Type" type="FixedString" value="Ability"/>
+                    <attribute id="UUID" type="guid" value="58ef11ef-44f7-4759-944c-9dc18f1f3468"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

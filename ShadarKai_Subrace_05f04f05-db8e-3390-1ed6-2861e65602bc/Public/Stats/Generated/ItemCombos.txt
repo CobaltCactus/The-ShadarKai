@@ -1,0 +1,26 @@
+new ItemCombination "OBJ_Dye_Raven"
+data "Type 1" "Object"
+data "Object 1" "OBJ_Dye_Raven"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "cc85606d-5c33-c01d-c7f3-b6e5d544a214"
+
+new ItemCombinationResult "OBJ_Dye_Raven_1"
+data "ResultAmount 1" "5"
+data "Result 1" "OBJ_Dye_Raven_1"
+
+new ItemCombination "OBJ_Dye_Shadowfell"
+data "Type 1" "Object"
+data "Object 1" "OBJ_Dye_Shadowfell"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "429448bf-3ca7-dbdd-a8c0-0cdc579106b0"
+
+new ItemCombinationResult "OBJ_Dye_Shadowfell_1"
+data "ResultAmount 1" "5"
+data "Result 1" "OBJ_Dye_Shadowfell_1"
+

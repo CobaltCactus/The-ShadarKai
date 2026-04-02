@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="ShadarKai"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShadarKai_Movement;UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;ShadarKai_Perception;RavenCompanion"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8d79e901-dd13-4463-bcac-450db5ba8547);"/>
+                    <attribute id="TableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
+                    <attribute id="UUID" type="guid" value="6caa928b-7d51-4893-8ee9-91f1e4d4d732"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="ShadarKai"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ImprovedRavenBlessing"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="RavenBlessing"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
+                    <attribute id="UUID" type="guid" value="7c1fc263-ea3b-4a46-bdb8-d9bd66b0856e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="ShadarKai"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedRavenPointsLevel2"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
+                    <attribute id="UUID" type="guid" value="d007c8c8-b520-4d1c-bf89-6294d9618f30"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="ShadarKai"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedRavenPointsLevel3"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="baf3ad8f-02cd-445a-a224-85cb6eecdbfc"/>
+                    <attribute id="UUID" type="guid" value="3e0512f4-8597-4cbf-9e17-87556ea0d29a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="ShadarKai_Human"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ShadarKai_Winterkin;"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="c066021b-fc04-4c19-927a-f41e1d6d95ed"/>
+                    <attribute id="UUID" type="guid" value="493a7ca7-229c-4c5b-b463-0f74ff5a8da5"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="ShadarKai_Elf"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FeyAncestry;"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="12166cc1-3442-4edc-b0da-e5d440e0fb84"/>
+                    <attribute id="UUID" type="guid" value="e0399d0c-56d1-4f9d-9e71-a34ee75e66ca"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
